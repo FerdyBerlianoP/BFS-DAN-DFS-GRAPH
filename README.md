@@ -1,7 +1,7 @@
 # BFS-DAN-DFS-GRAPH
 Complete BFS dan DFS
 
-#analisa menurut saya ferdy berliano putra
+#analisa menurut saya ferdy berliano putra (1184112)
 
 terdapat nilai A, B, C, D, E, F, G, H, I, J, K, L
 
